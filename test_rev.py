@@ -1,3 +1,3 @@
 from rev_sentence import reverse
-a="Hello WoLd"
+a="Hello WorlD"
 print(reverse(a))
