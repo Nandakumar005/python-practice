@@ -1,7 +1,7 @@
 num=int(input("Enter a number:"))
 fact=1
 if num<=0:
-    num=int(input("enter a positive number:"))
+    print("enter a positive number:")
 elif num==1:
     print("The factorial of 1 is 1")
 else:
